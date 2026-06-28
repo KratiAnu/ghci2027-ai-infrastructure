@@ -8,27 +8,57 @@ Welcome! This repository serves as the complete resource library, benchmarking t
 
 All architectural methodologies, memory constraint equations, and optimization trade-offs discussed in this session are grounded in the following industry-standard literature and production documentation:
 
-### 1. AI Engineering & Production Systems
-* **AI Engineering** — Chip Huyen *(O'Reilly)*
-* **Designing Machine Learning Systems** — Chip Huyen *(O'Reilly)*
-* **Building Machine Learning Powered Applications** — Emmanuel Ameisen *(O'Reilly)*
+# Research & References
 
-### 2. Infrastructure & Systems Thinking
-* **Chip War** — Chris Miller *(Simon & Schuster)*
-* **The Coming Wave** — Mustafa Suleyman *(Penguin Random House)*
-* **Systems Performance: Enterprise and the Cloud** — Brendan Gregg
+### Books
 
-### 3. Distributed Systems & Scalability
-* **Designing Data-Intensive Applications** — Martin Kleppmann *(O'Reilly)*
-* **Site Reliability Engineering (SRE) Handbook** — Google *(O'Reilly)*
+#### AI Engineering & Production Systems
+* **AI Engineering** — Chip Huyen  
+  https://www.oreilly.com/library/view/ai-engineering/9781098166298/
+* **Designing Machine Learning Systems** — Chip Huyen  
+  https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/
+* **Building Machine Learning Powered Applications** — Emmanuel Ameisen  
+  https://www.oreilly.com/library/view/building-machine-learning/9781492045100/
 
-### 4. High-Throughput Production Frameworks
-* **NVIDIA Triton Inference Server** — [Documentation & GitHub](https://github.com/triton-inference-server/server)
-* **vLLM Project & Research** — [High-Throughput LLM Serving Engine](https://vllm.ai/)
-* **NVIDIA TensorRT Documentation** — [Deep Learning Inference Optimization](https://docs.nvidia.com/deeplearning/tensorrt/)
+#### Infrastructure & Systems Thinking
+* **Chip War** — Chris Miller  
+  https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781981982008
+* **The Coming Wave** — Mustafa Suleyman  
+  https://www.penguinrandomhouse.com/books/703450/the-coming-wave-by-mustafa-suleyman/
+* **Systems Performance: Enterprise and the Cloud** — Brendan Gregg  
+  https://www.brendangregg.com/systems-performance-2nd-edition-book.html
+
+#### Distributed Systems & Scalability
+* **Designing Data-Intensive Applications** — Martin Kleppmann  
+  https://dataintensive.net/
+* **Site Reliability Engineering (SRE)** — Google  
+  https://sre.google/sre-book/table-of-contents/
 
 ---
 
-## 📁 Planned Toolkit Deliverables (Coming Post-Acceptance)
-* `serving-configs/` - Production deployment boilerplate configs for vLLM and Triton.
-* `benchmarking/` - Python scripts for estimating LLM model VRAM footprints and GPU memory limits.
+### Industry Reports & Technical Resources
+
+#### AI Infrastructure & Compute
+* **NVIDIA Technical Blog** https://developer.nvidia.com/blog/
+* **NVIDIA TensorRT Documentation** https://docs.nvidia.com/deeplearning/tensorrt/
+* **NVIDIA Triton Inference Server** https://github.com/triton-inference-server/server
+* **vLLM Project & Research** https://vllm.ai/
+
+#### AI Engineering & MLOps
+* **Google Cloud MLOps Resources** https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
+* **Microsoft Azure AI Architecture Center** https://learn.microsoft.com/en-us/azure/architecture/ai-ml/
+* **AWS Machine Learning Best Practices** https://aws.amazon.com/machine-learning/
+* **Databricks AI & MLOps Resources** https://www.databricks.com/solutions/machine-learning
+
+#### Semiconductor & Compute Ecosystem
+* **Semiconductor Industry Association (SIA)** https://www.semiconductors.org/resources/
+* **TSMC Investor Relations** https://investor.tsmc.com/english
+* **McKinsey Semiconductor Insights** https://www.mckinsey.com/industries/semiconductors/our-insights
+* **NVIDIA Investor Relations** https://investor.nvidia.com/
+
+#### Research & Industry Publications
+* **Stanford AI Index Report** https://aiindex.stanford.edu/
+* **State of AI Report** https://www.stateof.ai/
+* **MIT Technology Review – Artificial Intelligence** https://www.technologyreview.com/topic/artificial-intelligence/
+* **IEEE Xplore Digital Library** https://ieeexplore.ieee.org/
+* **ACM Digital Library** https://dl.acm.org/
